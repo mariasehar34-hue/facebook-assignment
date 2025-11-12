@@ -1,0 +1,57 @@
+body{
+    background-color: azure;
+}
+
+
+
+h1{
+ color: blue;
+ text-wrap-style: bold;
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+}
+p{ 
+    text-align: center;
+}
+.abc{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    box-shadow: 0 0 5px gray;
+    }
+    .abc input{
+        padding: 8px;
+        border: 1px solid gray;
+        border-radius: 4px;
+        width: 250px;
+        margin: 6px;
+    }
+    .first{
+        padding: 5px;
+        color: white;
+        background-color: blue;
+        border: none;
+        border-radius: 5px;
+        width: 300px;
+        height: 30px;
+        font-weight: bold;
+    }
+    .abc a{
+        text-decoration: none;
+        margin-top: 10px;
+        display: block;
+    }
+    .second{
+        padding: 5px;
+        color: white;
+        border: none;
+        border-radius: 3px;
+        font-weight: bold;
+        background-color: rgb(71, 194, 71);
+        width: 200px;
+        height: 30px;
+        margin-top: 20px;
+    }
